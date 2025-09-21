@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# The-AI-Powered-Codebase-Documenter
+An AI-powered SaaS platform that connects to a user's GitHub repository, scans the codebase, and automatically generates interactive, searchable documentation.
+
+Our goal is a web app where you can:
+
+  1-Enter the URL of a public GitHub repository.
+
+  2-Click an "Analyze" button and have the backend process it.
+
+  3-Ask a question about the code in a chat box and get an AI-generated answer.
+>>>>>>> a4b8d9055baeb7d9c7865dcd8005a1348aa3762b
